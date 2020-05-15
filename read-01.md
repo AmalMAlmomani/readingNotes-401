@@ -2,11 +2,13 @@
 
  - 1. **Why would you want to run JavaScript code outside of a browser?**
        - Running JavaScript without/outside a browser means you are using node.js technology to execute your JavaScript code. This type of usage of javascript typically refers to backend programming where your javascript code will interact with your database and can be used to create RESTful APIs.
-
+ 
+ 
  - 2. **What is the difference between a module and a package?**
        - "Java platform module system" 
          - A module is a named, self-describing collection of code and data. Its code is organized as a set of packages containing types, Java classes and interfaces; its data includes resources and other kinds of static information
          - A Java package is a technique for organizing Java classes into namespaces similar to the modules of Modula, providing modular programming in Java.
+
 
  - 3. **What does the node package manager do?**
        - Adapt packages of code for your apps, or incorporate packages as they are.
@@ -20,6 +22,7 @@
        - Update applications easily when underlying code is updated.
        - Discover multiple ways to solve the same puzzle.
        - Find other developers who are working on similar problems and projects.
+
 
  - 4. **Provide code snippets showing 3 different ways to export a function from a node module**
       - module.exports = {
