@@ -51,7 +51,7 @@ exports.otherMethod = function() {};
   
 
 
-  ## node package manager (npm):
+ ## node package manager (npm):
    - **npm consists of three distinct components:**
       - 1. the website:  discover packages, set up profiles, and manage other aspects of your npm experience.
       - 2. the Command Line Interface (CLI): runs from a terminal, and is how most developers interact with npm.
