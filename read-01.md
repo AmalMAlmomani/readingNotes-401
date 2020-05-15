@@ -22,10 +22,11 @@
        - Find other developers who are working on similar problems and projects.
 
  - 4. **Provide code snippets showing 3 different ways to export a function from a node module**
-       - module.exports = {
+      - module.exports = {
     method: function() {},
     otherMethod: function() {},
-};     - exports.method = function() {};
+};    
+      - exports.method = function() {};
 exports.otherMethod = function() {};
 
 
