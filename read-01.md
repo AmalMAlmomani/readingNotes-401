@@ -50,8 +50,7 @@ exports.otherMethod = function() {};
   compiler   | used to convert a program written in a high-level language into machine code(binary code 0's and 1's) understood by                      computers to create an executable program.
   
 
-
- ## node package manager (npm):
+## node package manager (npm):
    - **npm consists of three distinct components:**
       - 1. the website:  discover packages, set up profiles, and manage other aspects of your npm experience.
       - 2. the Command Line Interface (CLI): runs from a terminal, and is how most developers interact with npm.
