@@ -42,8 +42,8 @@
 ## Document the following Vocabulary Terms:
 
     Vocabulary          |  Definition
- -----------------------|---------------------------------------------------------------------------------------------------------------
-  functional programming| is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects.
+ -----------------------|-----------------------------------------------------------------------------------------------------------
+ functional programming | is the process of building software by composing pure functions, avoiding shared state, mutable data, and                                side-effects.
   pure function         | are functions that accept an input and returns a value without modifying any data outside its scope(Side Effects). 
   higher-order function | is a function that can take another function as an argument, or that returns a function as a result.
   immutable state       | is state that cannot be changed. Immutable objects (for which none of the state can be changed) become important when you are dealing with concurrency, the ability for more than one processor in your computer to operate on that object at the same time.                
