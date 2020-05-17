@@ -2,24 +2,24 @@
 # Readings: Classes, Inheritance, Functional 
 
 - 1. Name 3 advantages to Test Driven Development
-   -  spend less time in the debugger.
-   - TDD reduces time spent on rework.
-   - TDD supports a clean interface.
+    -  spend less time in the debugger.
+    - TDD reduces time spent on rework.
+    - TDD supports a clean interface.
 
 - 2. In what case would you need to use beforeEach() or afterEach() in a test suite?
-   - beforeEach and afterEach are run before/after every it block in the current context and all nested contexts.
+    - beforeEach and afterEach are run before/after every it block in the current context and all nested contexts.
 
 - 3. What is one downside of Test Driven Development
-   - HUGE loss of time it takes "getting in to it".
+    - HUGE loss of time it takes "getting in to it".
    
 - 4. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
-   - The most important difference between class- and prototype-based inheritance is that a class defines a type which can be instantiated at runtime, whereas a prototype is itself an object instance. 
+    - The most important difference between class- and prototype-based inheritance is that a class defines a type which can be instantiated at runtime, whereas a prototype is itself an object instance. 
 
 - 5. Name a use case for a static method
-   - Use a static method when you want to be able to access the method without an instance of the class. Use static when you want to provide class level access to a method.
+    - Use a static method when you want to be able to access the method without an instance of the class. Use static when you want to provide class level access to a method.
 
 - 6. Write an example of a Higher Order function and describe the use case it solves
-     - Example 1#
+      - Example 1#
        - Let’s say we have an array of numbers and we want to create a new array which contains double of each value of the first array. Let’s see how we can solve the problem with and without Higher-Order Function.
 
          - *Without Higher-order function*
