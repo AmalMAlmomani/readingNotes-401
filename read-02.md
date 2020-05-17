@@ -41,7 +41,7 @@
 
 ## Document the following Vocabulary Terms:
 
-    Vocabulary          |  Definition
+  Vocabulary            |  Definition
  -----------------------|-----------------------------------------------------------------------------------------------------------
  functional programming | is the process of building software by composing pure functions, avoiding shared state, mutable data, and                                side-effects.
   pure function         | are functions that accept an input and returns a value without modifying any data outside its scope(Side Effects). 
