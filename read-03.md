@@ -23,7 +23,7 @@
 
   ## Document the following Vocabulary Terms:
 
-  Vocabulary                     |  Definition
+  Vocabulary                     |  Definition                                                                                           
  --------------------------------|----------------------------------------------------------------------------------------------------
  
  database                        | is an organized collection of structured information, or data, typically stored electronically in a                                       computer system.
