@@ -25,8 +25,7 @@
 
 Vocabulary                   |  Definition
 -----------------------------|----------------------------------------------------------------------------------------------------
- 
- database                        | is an organized collection of structured information, or data, typically stored electronically in a                                       computer system.
+database                     | is an organized collection of structured information, or data, typically stored electronically in a                                       computer system.
   data model                     | define how data is connected to each other and how they are processed and stored inside the system.
   CRUD                           | represents an acronym for the database operations Create, Read, Update, and Delete.
   schema                         | is a collection of database objects including tables, views, triggers, stored procedures, indexes, etc.
