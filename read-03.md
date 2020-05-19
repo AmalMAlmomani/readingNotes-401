@@ -46,3 +46,4 @@ database                     | is an organized collection of structured informat
 ## nosql modeling techniques
 - NoSQL databases are often compared by various non-functional criteria, such as scalability, performance, and consistency.
 - This aspect of NoSQL is well-studied both in practice and theory because specific non-functional properties are often the main justification for NoSQL usage and fundamental results on distributed systems like the CAP theorem apply well to NoSQL systems.  
+
