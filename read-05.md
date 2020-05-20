@@ -1,5 +1,5 @@
 # Linked Lists
-
+-  ![](linked.jpeg)
 ## What is a Linked List
    -  a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
    -  A data structure that contains nodes that links/points to the next node in the list.
@@ -33,6 +33,9 @@
 
     - **When constructing your code, a few things to keep in mind.**
       - When making your Node class, consider requiring a value to be passed in to require that each node has a value.
-      
+
       - When making a Linked List, you may want to require that at least one node gets passed in upon instantiation. This first node is what your Head and Current will point too.
 
+
+
+- ![](arrayvslinked.jpeg)
