@@ -23,3 +23,8 @@
  read:13   |  [read:13](https://amalmalmomani.github.io/readingNotes-401/read-13)
  read:14   |  [read:14](https://amalmalmomani.github.io/readingNotes-401/read-14)
  read:15   |  [read:15](https://amalmalmomani.github.io/readingNotes-401/read-15)
+ read:16   |  [read:15](https://amalmalmomani.github.io/readingNotes-401/read-16)
+ read:17   |  [read:15](https://amalmalmomani.github.io/readingNotes-401/read-17)
+ read:18   |  [read:15](https://amalmalmomani.github.io/readingNotes-401/read-18)
+ read:19   |  [read:15](https://amalmalmomani.github.io/readingNotes-401/read-19)
+ read:20   |  [read:15](https://amalmalmomani.github.io/readingNotes-401/read-20)

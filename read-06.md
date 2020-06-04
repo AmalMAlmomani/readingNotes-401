@@ -8,7 +8,7 @@
   - defines how requests and responses should be formatted, but not what a service should represent.
   - associated with serving `.html` files but is also used to transfer `images`, `videos`, `.json`, `.xml`, `binary executables`, and much more.
 
-  - ![](http1-url-structure.png) 
+  - ![](./img/http1-url-structure.png) 
 
 ### HTTP Requests
   - HTTP/1.1 request is formatted in text and transferred using TCP.
@@ -35,7 +35,7 @@
   - Generally speaking, RESTful endpoints deliver data in JSON format. 
   - **The best practice is to supply a header with metadata and a collection of results**
  
-  - ![](http1-req-res-details.png)
+  - ![](./img/http1-req-res-details.png)
 
 ### REST Documentation (Swagger):
   - standard for documenting REST APIs is with a “live” documentation system: Open API (formerly “Swagger”).

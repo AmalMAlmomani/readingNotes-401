@@ -38,4 +38,4 @@
 
 
 
-- ![](arrayvslinked.jpeg)
+- ![](./img/arrayvslinked.jpeg)
