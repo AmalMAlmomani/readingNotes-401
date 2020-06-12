@@ -10,6 +10,7 @@
   - `Height` - The height of a tree is determined by the number of edges from the root to the bottommost node
 
 - ![](./img/BinaryTree1.png)
+- ![](./img/stack1.png)
 
 ## Traversals
   - Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! 
