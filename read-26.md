@@ -12,7 +12,7 @@
 
   - *JSX* looks like markup, but it’s actually Javascript.
 
-##JSX
+## JSX
   -  is an XML/HTML-like syntax used by React that extends ECMAScript so that XML/HTML-like text can co-exist with JavaScript/React code.
 
   - **Why JSX?**
