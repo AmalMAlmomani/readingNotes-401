@@ -1,7 +1,7 @@
-# <Login /> and <Auth />
+- `<Login />` and `<Auth />`
 
 
-# <Auth /> component
+- `<Auth />` component
 
   - Based on your permissions and login status, it either gives you access to a component or jsx or hides it.
   - Must not use Redux
