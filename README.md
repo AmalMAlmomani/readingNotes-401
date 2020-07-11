@@ -37,3 +37,8 @@
  read:33   |  [read:33](https://amalmalmomani.github.io/readingNotes-401/read-33)
  read:34   |  [read:34](https://amalmalmomani.github.io/readingNotes-401/read-34)
  read:35   |  [read:35](https://amalmalmomani.github.io/readingNotes-401/read-35)
+ read:36   |  [read:36](https://amalmalmomani.github.io/readingNotes-401/read-36)
+ read:37   |  [read:37](https://amalmalmomani.github.io/readingNotes-401/read-37)
+ read:38   |  [read:38](https://amalmalmomani.github.io/readingNotes-401/read-38)
+ read:39   |  [read:39](https://amalmalmomani.github.io/readingNotes-401/read-39)
+ read:40   |  [read:40](https://amalmalmomani.github.io/readingNotes-401/read-40)
