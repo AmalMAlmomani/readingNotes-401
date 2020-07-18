@@ -41,4 +41,4 @@
  read:37   |  [read:37](https://amalmalmomani.github.io/readingNotes-401/read-37)
  read:38   |  [read:38](https://amalmalmomani.github.io/readingNotes-401/read-38)
  read:39   |  [read:39](https://amalmalmomani.github.io/readingNotes-401/read-39)
- read:40   |  [read:40](https://amalmalmomani.github.io/readingNotes-401/read-40)
+ read:41   |  [read:41](https://amalmalmomani.github.io/readingNotes-401/read-41)
